@@ -1,7 +1,6 @@
 # SYSIGHT
-Sysight is a web application that aims to centralize information from temperature measurement from manual meters. The idea arose in the context of the covid-19 pandemic and came to facilitate companies' control of their corporate environment.
+Sysight is a web application that aims to monitor corporate equipment in order to ensure high performance and reduce operating costs due to undue expenses.
 
-With dashboards, login/registration system and an institutional page, we simply seek to improve the user experience.
+Based on our calculations, we recommend the computing power necessary for your digital business to continue running.
 
-This project has a 100% academic purpose.
-
+This project has 100% academic purpose.
